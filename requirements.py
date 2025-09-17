@@ -5,7 +5,7 @@
 streamlit>=1.28.0
 
 # Video processing
-moviepy>=1.0.3
+moviepy==1.0.3
 
 # Audio processing
 soundfile>=0.12.1
@@ -25,4 +25,5 @@ pandas>=2.0.0
 ffmpeg-python>=0.2.0
 
 # Optional: GPU acceleration (uncomment if you have CUDA)
+
 # torch>=2.0.0+cu118
