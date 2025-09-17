@@ -27,3 +27,28 @@ ffmpeg-python>=0.2.0
 # Optional: GPU acceleration (uncomment if you have CUDA)
 
 # torch>=2.0.0+cu118
+
+# Streamlit Classroom Interaction Analysis Tool - DEPLOYMENT VERSION
+# Streamlit Community Cloud Compatible Requirements
+
+# Core web framework
+streamlit
+
+# Video and audio processing
+moviepy
+soundfile
+pydub
+
+# Noise reduction
+noisereduce
+
+# ML/AI transcription
+openai-whisper
+
+# Data processing
+numpy
+pandas
+
+# System utilities
+ffmpeg-python
+
