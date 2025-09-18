@@ -28,9 +28,8 @@ ffmpeg-python>=0.2.0
 # torch>=2.0.0+cu118
 
 ffmpeg
-libavcodec-extra
-libav-tools
 
 pytest>=7.0.0
 black>=23.0.0
 flake8>=6.0.0
+
