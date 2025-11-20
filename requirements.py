@@ -32,4 +32,6 @@ ffmpeg
 pytest>=7.0.0
 black>=23.0.0
 flake8>=6.0.0
+# moviepy==1.0.3
+# noisereduce==0.3.1
 
